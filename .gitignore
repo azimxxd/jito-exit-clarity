@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+.env
+.env.*
+!.env.example
+.vercel/
+*.log
+coverage/
+# Retain development screenshots locally; publish only the release captures.
+docs/screenshots/*.jpg
+!docs/screenshots/release-desktop.jpg
+!docs/screenshots/release-mobile.jpg
