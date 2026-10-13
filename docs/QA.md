@@ -39,7 +39,7 @@ The production output was served with `npm run preview` and inspected, rather th
 
 Accessibility improvements include explicit row/column header scopes, an ordered list for withdrawal stages, shorter tooltip button names with descriptions, persistent focused tooltips, and existing keyboard focus transfer to the calculator. Inputs are capped at 24 characters; parsing independently rejects overlong values. A regression test covers this cap.
 
-Removed unused old wordmark/token-logo CSS and the superseded flow-dot animation. Added a neutral favicon, Node 24 selection, a Vercel manifest and a GitHub Actions build/test workflow. The workflow is prepared locally and has not run remotely yet.
+Removed unused old wordmark/token-logo CSS and the superseded flow-dot animation. Added a neutral favicon, Node 24 selection, a Vercel manifest and a GitHub Actions build/test workflow. The workflow ran successfully on GitHub after publication: https://github.com/azimxxd/jito-exit-clarity/actions/runs/38390412776.
 
 The production dependency audit returned no reported vulnerabilities at inspection time. A local credential-pattern scan found no matches in the files selected for release. These checks do not constitute a security audit.
 

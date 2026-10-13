@@ -1,0 +1,13 @@
+.git/
+.github/
+node_modules/
+dist/
+docs/
+tests/
+.env
+.env.*
+*.log
+*.tsbuildinfo
+.DS_Store
+README.md
+TOKEN_GEMS_SUBMISSION.md

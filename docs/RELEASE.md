@@ -10,7 +10,7 @@
 - English research notes, competition verification and contribution draft.
 - Neutral concept identity and an independent-research disclosure.
 
-The user approved public GitHub publication and Vercel deployment on 13 October 2026. Release execution is in progress; the final URLs and verification results will be recorded below.
+The user approved public GitHub publication and Vercel deployment on 13 October 2026. The repository is public at https://github.com/azimxxd/jito-exit-clarity. Initial GitHub CI passed: https://github.com/azimxxd/jito-exit-clarity/actions/runs/38390412776. Vercel deployment is in progress.
 
 ## Approval scope
 

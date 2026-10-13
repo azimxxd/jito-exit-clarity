@@ -8,7 +8,7 @@
 - **Main Earn submission link:** [YOUR TOKENGEMS PROFILE URL — required]
 - **TokenGems contribution permalink:** [ADD AFTER THE APPROVED POST IS PUBLISHED]
 - **Interactive prototype:** [LIVE VERCEL URL — pending publication approval]
-- **GitHub:** `https://github.com/azimxxd/jito-exit-clarity` — planned; not published yet
+- **GitHub:** [azimxxd/jito-exit-clarity](https://github.com/azimxxd/jito-exit-clarity)
 - **X handle:** [YOUR X HANDLE — required]
 
 The contribution reviews JitoSOL, an external project. Jito Exit Clarity is supporting design work, not the project being entered for review.
@@ -31,7 +31,7 @@ Prepared with AI assistance from public sources. No wallet connection, deposit, 
 
 **Prototype:** [ADD APPROVED LIVE URL]
 
-**Code:** [ADD PUBLISHED REPOSITORY URL]
+**Code:** https://github.com/azimxxd/jito-exit-clarity
 
 **Sources:**
 

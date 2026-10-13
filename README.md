@@ -68,7 +68,7 @@ This is a static application. For Vercel, Netlify or Cloudflare Pages, select th
 
 The Vercel configuration is committed in `vercel.json`. A GitHub Actions workflow checks tests and builds on `main` and pull requests.
 
-No public deployment has been performed. The intended repository is `azimxxd/jito-exit-clarity`; it is pending approval. See [release plan](docs/RELEASE.md). The competition requires a public TokenGems contribution and profile link; the demo alone is not an entry. See [verified participation requirements](docs/COMPETITION.md).
+No public deployment has been performed. The source is public at [azimxxd/jito-exit-clarity](https://github.com/azimxxd/jito-exit-clarity). Vercel deployment has been approved and is in progress. See [release plan](docs/RELEASE.md). The competition requires a public TokenGems contribution and profile link; the demo alone is not an entry. See [verified participation requirements](docs/COMPETITION.md).
 
 ## Source structure
 
