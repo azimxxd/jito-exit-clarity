@@ -31,7 +31,7 @@ No browser error or warning logs appeared during the refinement interactions. Mo
 
 ## Limits
 
-No live quotes, wallet permissions, transactions, actual balances or public deployment. All timings and fees are educational descriptions drawn from the linked documentation. Real total costs and independent route exchange rates require a production integration.
+No live quotes, wallet permissions, transactions or actual balances. The prototype is now publicly deployed; deployment does not change these data limitations. All timings and fees are educational descriptions drawn from the linked documentation. Real total costs and independent route exchange rates require a production integration.
 
 ## Release audit
 
@@ -44,3 +44,7 @@ Removed unused old wordmark/token-logo CSS and the superseded flow-dot animation
 The production dependency audit returned no reported vulnerabilities at inspection time. A local credential-pattern scan found no matches in the files selected for release. These checks do not constitute a security audit.
 
 Production keyboard checks confirmed that the skip link focuses the calculator and the next Tab reaches the amount input. Explicit table header scopes and four ordered timeline items were inspected in the DOM. Release captures are `release-desktop.jpg` and `release-mobile.jpg`; earlier screenshots stay local.
+
+## Published-site verification
+
+Production URL: https://jito-exit-clarity.vercel.app. Checked anonymously over HTTPS and in the browser on 13 October 2026. HTTP 200 and the three configured response headers were verified. A live scenario with 100 JitoSOL, a 1.2 mock rate, 0.2% trading cost and 1% slippage returned 118.5624 SOL and 119.8800 SOL, matching the local model. Invalid negative input hid estimates; preference and explanatory controls worked. At 390px and 320px, the page had no horizontal overflow. No browser errors appeared.

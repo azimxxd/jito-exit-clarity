@@ -6,6 +6,8 @@ An independent, interactive frontend UX concept prepared as supporting material 
 
 ![Illustrative comparison interface](docs/screenshots/release-desktop.jpg)
 
+**[Live demo](https://jito-exit-clarity.vercel.app)** · **[GitHub repository](https://github.com/azimxxd/jito-exit-clarity)**
+
 ## Purpose and hypothesis
 
 Jito’s homepage emphasizes liquidity and no exit penalties. Its official documentation already compares instant Jupiter trading with direct unstaking. The proposal is to make that understanding available earlier: before wallet connection. We do not claim that fees are hidden, or that the wallet-connected experience has been comprehensively audited.
@@ -68,7 +70,9 @@ This is a static application. For Vercel, Netlify or Cloudflare Pages, select th
 
 The Vercel configuration is committed in `vercel.json`. A GitHub Actions workflow checks tests and builds on `main` and pull requests.
 
-No public deployment has been performed. The source is public at [azimxxd/jito-exit-clarity](https://github.com/azimxxd/jito-exit-clarity). Vercel deployment has been approved and is in progress. See [release plan](docs/RELEASE.md). The competition requires a public TokenGems contribution and profile link; the demo alone is not an entry. See [verified participation requirements](docs/COMPETITION.md).
+The production site is live at [jito-exit-clarity.vercel.app](https://jito-exit-clarity.vercel.app), with source at [azimxxd/jito-exit-clarity](https://github.com/azimxxd/jito-exit-clarity). Vercel is connected to GitHub for subsequent deployments. See [release record](docs/RELEASE.md).
+
+The competition requires a public TokenGems contribution and profile link; the demo alone is not an entry. See [verified participation requirements](docs/COMPETITION.md). The contribution draft has not been posted or submitted.
 
 ## Source structure
 

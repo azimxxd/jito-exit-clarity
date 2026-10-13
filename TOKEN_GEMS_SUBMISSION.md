@@ -7,7 +7,7 @@
 - **Project analyzed:** [Jito Staked SOL on Solana](https://tokengems.ai/tokens/solana/jito-staked-sol-J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn)
 - **Main Earn submission link:** [YOUR TOKENGEMS PROFILE URL — required]
 - **TokenGems contribution permalink:** [ADD AFTER THE APPROVED POST IS PUBLISHED]
-- **Interactive prototype:** [LIVE VERCEL URL — pending publication approval]
+- **Interactive prototype:** [Live demo](https://jito-exit-clarity.vercel.app)
 - **GitHub:** [azimxxd/jito-exit-clarity](https://github.com/azimxxd/jito-exit-clarity)
 - **X handle:** [YOUR X HANDLE — required]
 
@@ -29,7 +29,7 @@ Question for the team: would a pre-connection comparison complement the existing
 
 Prepared with AI assistance from public sources. No wallet connection, deposit, swap, unstaking transaction, user interview or usability study was performed. All prototype outputs are fictional scenarios; network and account costs are excluded. Not affiliated with or endorsed by Jito.
 
-**Prototype:** [ADD APPROVED LIVE URL]
+**Prototype:** https://jito-exit-clarity.vercel.app
 
 **Code:** https://github.com/azimxxd/jito-exit-clarity
 
@@ -42,6 +42,6 @@ Prepared with AI assistance from public sources. No wallet connection, deposit, 
 
 Use the TokenGems profile URL as the primary submission link, as required by the listing. Supply the contribution permalink, the Solana JitoSOL project page and X handle in the relevant questions. The demo and code are supporting artifacts; they do not replace the TokenGems contribution.
 
-Before posting, review the wording in your own voice, confirm the reviewed scope accurately describes your involvement, and replace the pending links. Do not claim wallet-connected product use or user testing. Obtain publication approval in this conversation. Once the contest deadline passes, do not edit the submitted contribution; keep it public through judging.
+Before posting, review the wording in your own voice, confirm the reviewed scope accurately describes your involvement, and fill the remaining profile, contribution and X details. Do not claim wallet-connected product use or user testing. Obtain separate approval for the final TokenGems post in this conversation. Once the contest deadline passes, do not edit the submitted contribution; keep it public through judging.
 
 See [competition verification](docs/COMPETITION.md) for checked participation requirements and remaining user actions.

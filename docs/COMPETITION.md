@@ -41,7 +41,7 @@ The distinctive supporting artifact here is an implemented comparison with edita
 
 ## Remaining user involvement
 
-- Approve public GitHub creation and Vercel deployment.
+- GitHub publication and Vercel deployment were approved and completed on 13 October 2026. The remaining approvals concern the final TokenGems post and Earn application.
 - Complete TokenGems sign-in/profile independently, if needed.
 - Provide the profile URL and X handle; no seed phrase or private key is needed.
 - Complete the follow/repost requirement on X.
